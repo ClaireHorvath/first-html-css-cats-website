@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(50, 145, 168);
+}
+
+img {
+    height: 500px;
+    width: 300;
+}
+
+h3 {
+    background-color: bisque;
+    background-size: cover;
+}
+
